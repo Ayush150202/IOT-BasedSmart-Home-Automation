@@ -1,8 +1,3 @@
-//SK.Tanzir mehedi Shawon
-//Department of ICT
-//MBSTU
-//Date-18-05-2018
-
 //temprature sensor 
 #include <LiquidCrystal.h>
 #include<SoftwareSerial.h>
